@@ -1,5 +1,5 @@
 # selenium_Assignment
-<ul>This is in response to the interview quetion posted on internshala by Dyeus.</ul>
+<ul>This is in response to the interview quetion posted on personal internshala chat by Dyeus.</ul>
 <ul>The Code is Written in jupyter notebook</ul>
 <ul>Please make sure that the geckodriver used for firefox is installed and correctly located,</ul>
 <ul>Also install selenium and pyautogui</ul>
